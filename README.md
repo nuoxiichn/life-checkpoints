@@ -1,9 +1,7 @@
-<p align="center">
-  <h3 align="center">⌨️ Life Checkpoints</h3>
-</p>
+<h3 align="center">🚩 Life Checkpoints</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=给岁月以存档，给未来以回响。;Version+controlling+my+life.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E7%BB%99%E5%B2%81%E6%9C%88%E4%BB%A5%E5%AD%98%E6%A1%A3%EF%BC%8C%E7%BB%99%E6%9C%AA%E6%9D%A5%E4%BB%A5%E5%9B%9E%E5%93%8D%E3%80%82;Version+controlling+my+life.&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 A repository for annual public reviews and encrypted time capsules for my future self.
