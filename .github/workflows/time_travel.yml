@@ -2,7 +2,7 @@ name: Time Capsule Delivery
 
 on:
   schedule:
-    - cron: '0 0 1 1 *'
+    - cron: '59 15 31 12 *'
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
           KEY: ${{ secrets.TIME_CAPSULE_KEY }}
         run: |
           CURRENT_YEAR=$(date +'%Y')
-          TARGET_YEAR=$((CURRENT_YEAR - 4))
+          TARGET_YEAR=$((CURRENT_YEAR - 9))
           FILE_PATH="${TARGET_YEAR}/letter_to_future.enc"
           
           echo "Checking for letter from ${TARGET_YEAR}..."
